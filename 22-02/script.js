@@ -16,4 +16,5 @@ let b = 10;
 let c = a - b;
 let d = 7;
 let result = c + d;
-console.log(result);
+alert(result);
+
