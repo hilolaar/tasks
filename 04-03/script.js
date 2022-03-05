@@ -1,5 +1,5 @@
 let arr = ['a','b','c','d'];
-//let str = `${arr[0]}+${arr[1]}, ${arr[2]}+${arr[3]}`;
+
 
 let str2 = arr[0] + '+' + arr[1] + ', ' + arr[2] + '+' + arr[3];
 console.log(str2);
