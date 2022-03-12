@@ -1,17 +1,10 @@
 function min(a, b) {
-    if (a < b) {
-        return a;
-    } else {
-        return b;
-    }
+   return( a < b) ? a : b;
 }
-
-console.log(min(5, 3));
 
 function showNumber(num) {
-    alert(num);
+    console.log(num);
 }
-
 showNumber(2);
 
 
