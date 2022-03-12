@@ -24,7 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2952f9e2-fc11-4480-8597-856b7ba666d2" name="Default Changelist" comment="init" />
+    <list default="true" id="4b2803cc-42d3-408a-92b8-9c79612edef2" name="Default Changelist" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +32,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectId" id="26CLR7349bydDMl0nvdHAzgDbCA" />
+  <component name="ProjectId" id="26HqThqrlFkcvF4xIDJPObXALRz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,25 +43,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\grace\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2952f9e2-fc11-4480-8597-856b7ba666d2" name="Default Changelist" comment="" />
-      <created>1646922609625</created>
+      <changelist id="4b2803cc-42d3-408a-92b8-9c79612edef2" name="Default Changelist" comment="" />
+      <created>1647090868201</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646922609625</updated>
-      <workItem from="1646922610953" duration="110000" />
+      <updated>1647090868201</updated>
+      <workItem from="1647090870766" duration="1470000" />
     </task>
     <task id="LOCAL-00001" summary="init">
-      <created>1646922629666</created>
+      <created>1647091534369</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1646922629666</updated>
+      <updated>1647091534369</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -73,11 +73,21 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -86,9 +96,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="492" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646922654457">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1647094289969">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="492" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1646922654457" />
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1647094289969" />
+    <state x="492" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647091570963">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1647091570962" />
+    <state x="513" y="160" key="svn.repositoryBrowser" timestamp="1647094294466">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="160" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1647094294466" />
+    <state x="533" y="143" key="svn4idea.import.options" timestamp="1647094292069">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="533" y="143" key="svn4idea.import.options/0.0.1366.738@0.0.1366.738" timestamp="1647094292069" />
   </component>
 </project>
