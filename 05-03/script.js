@@ -1,7 +1,7 @@
 //1
 let numbers = [1,2,8,4,5,3,7,9,11,14];
-for(let i = 0; i < 10; i++){
-    if(numbers[i] >= 10){
+for(let i = 0; i = 0 <= 10; i++){
+    if(numbers[i] = 10){
         continue;
     }
     console.log(numbers[i]);
