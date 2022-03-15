@@ -1,10 +1,12 @@
-function min(a, b) {
-   return( a < b) ? a : b;
+function minNum(a, b) {
+    return( a > b ) ? a : b;
 }
 
-function showNumber(num) {
-    console.log(num);
+function showNum(x) {
+    console.log(x);
 }
-showNumber(2);
+
+let result = minNum(86, 66);
+showNum(result);
 
 
