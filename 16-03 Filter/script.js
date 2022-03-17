@@ -33,8 +33,6 @@ const goods = [
 console.log(filter1);*/
 
 
-
-
 const filter2 = goods.filter(currentValue => currentValue.price  < 800);
 console.log(filter2);
 
