@@ -55,7 +55,7 @@ console.log(result);
 
 function myFunc(value, length) {
     const arr = [];
-    for (var i = 0; i < length; i++) {
+    for (let i = 0; i < length; i++) {
         arr.push(value);
     }
     return arr;
