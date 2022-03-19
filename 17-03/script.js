@@ -18,7 +18,7 @@ console.log(result);
 
 1) sum = 0 ; elem = -5;
   -5 >= 0 //false
-   sum = 0
+   return 0
 
 2) sum = 0; elem = 10;
   10 >= 0 //true
@@ -34,7 +34,7 @@ console.log(result);
 
 5) sum = 70; elem = -1;
    -1 >= 0 //false
-   sum = 70
+   return 70
 
 6) sum = 70; elem = 22
    22 >= 0 //true
@@ -42,7 +42,7 @@ console.log(result);
 
 7)  sum = 92; elem = -4;
    -4 >= 0 //false
-   sum = 92
+   return 92
 
 8) sum = 92 ; elem = 36
    36 >= 0 //true
@@ -50,7 +50,7 @@ console.log(result);
 
 9) sum = 128; elem = -45;
    -45 >= 0 //false
-   sum = 128
+   return 128
 */
 
 function myFunc(value, length) {
