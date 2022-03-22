@@ -17,7 +17,9 @@ console.log(mul(9,7));
 
 const factorial = (n) => {
     let result = 1;
-    while(n) result *= n--;
+    while(n){
+       result *= n--;
+    }
     return result;
 }
 console.log(factorial(7));
