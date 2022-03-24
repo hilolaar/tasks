@@ -13,15 +13,15 @@ console.log('Количество чисел - ' + n);
 //2
 
 
-let n = 0;
+let num = 0;
 let sum = 0;
 let countNumbers = Number(prompt('Введите число'));
 
    while(countNumbers != 999){
-      n++;
+      num++;
       sum += countNumbers;
 }
-console.log('Количество чисел - ' + n ,'сумма чисел = ' + sum);
+console.log('Количество чисел - ' + num ,'сумма чисел = ' + sum);
 
 
 
