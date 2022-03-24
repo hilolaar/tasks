@@ -21,7 +21,7 @@ let count = Number(prompt('Введите число'));
       n++;
       sum += count;
 }
-console.log('Количество чисел - ' + n ,'Сумма чисел = ' + sum);
+console.log('Количество чисел - ' + n ,'сумма чисел = ' + sum);
 */
 
 
