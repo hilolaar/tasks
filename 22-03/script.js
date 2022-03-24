@@ -12,16 +12,16 @@ console.log('Количество чисел - ' + n);
 
 //2
 
-/*
+
 let n = 0;
 let sum = 0;
-let count = Number(prompt('Введите число'));
+let countNumbers = Number(prompt('Введите число'));
 
-   while(count != 999){
+   while(countNumbers != 999){
       n++;
-      sum += count;
+      sum += countNumbers;
 }
 console.log('Количество чисел - ' + n ,'сумма чисел = ' + sum);
-*/
+
 
 
