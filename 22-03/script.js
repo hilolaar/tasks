@@ -3,7 +3,7 @@
 let numbers = prompt('Введите число');
 let n = 0;
 
-   while(numbers != 99){
+   while(numbers != 99 ){
        n++;
        numbers = prompt('Введите число');
 }
@@ -15,9 +15,9 @@ console.log('Количество чисел - ' + n);
 
 let num = 0;
 let sum = 0;
-let countNumbers = Number(prompt('Введите число'));
+let countNumbers = number(prompt(' Введите число '));
 
-   while(countNumbers != 999){
+   while(countNumbers != 999 ){
       num++;
       sum += countNumbers;
 }
