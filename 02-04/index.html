@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <form action="javascript:void(0)">
+        <input type="text" placeholder="ФИО">
+        <input type="number" placeholder="Номер телефона">
+        <input type="date"> <br>
+        <p>Пол?</p>
+        <label for="man">Мужчина <input type="radio" name="gender" id="man" value="1"></label>
+        <label for="woman">Женщина <input type="radio" name="gender" id="woman" value="2"></label><br>
+
+        <p>Какой язык интересует?</p>
+        <label for="js">Javascript<input type="checkbox" id="js" value="js"></label>
+        <label for="java">Java <input type="checkbox" id="java" value="java"></label>
+        <label for="sql">Sql<input type="checkbox" id="sql" value="sql"></label><br>
+
+        <p>Выберите филлиал</p>
+        <select>
+            <option value="0">Выберите</option>
+            <option value="1">Суюмбаева 123</option>
+            <option value="2">Турусбекова 109/1</option>
+        </select> <br> <br>
+
+        <input type="submit" class="btn">
+    </form>
+
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
